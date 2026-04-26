@@ -151,7 +151,6 @@ int axaY() {
 
 void setup() {
   creare_stoc();
-  pornire_wifi();
   tft.init();
   tft.setTextSize(2);
   tft.fillScreen(TFT_BLACK);
