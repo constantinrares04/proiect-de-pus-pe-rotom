@@ -1,0 +1,10 @@
+Pui:chicken_breast:10
+Vita:beef:20
+Porc:pork:30
+Oua:egg:40
+Faina:flour:50
+Lapte:milk:60
+Cartofi:potato:70
+Ceapa:onion:80
+Zahar:sugar:90
+Otet:vinegar:100
